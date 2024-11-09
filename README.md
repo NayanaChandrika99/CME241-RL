@@ -4,12 +4,14 @@
 This repository documents my self-study journey through Stanford's CME 241 course (Reinforcement Learning for Stochastic Control Problems in Finance) based on the textbook "Foundations of Reinforcement Learning with Applications in Finance" by Ashwin Rao and Tikhon Jelvis.
 
 
+
 ### Course Focus
 The course explores the intersection of Reinforcement Learning and Financial Applications, providing a comprehensive foundation in:
 * Markov Decision Processes (MDPs)
 * Dynamic Programming Algorithms
 * Reinforcement Learning Algorithms
 * Financial Trading Applications
+
 
 
 ### Learning Objectives
@@ -35,12 +37,14 @@ The course explores the intersection of Reinforcement Learning and Financial App
 * Market-Making Strategies
 
 
+
 ### Implementation Focus
 All implementations are done "from scratch" in Python, emphasizing:
 * Clean interface design
 * Type annotations
 * Functional programming principles
 * Inheritance-based polymorphism
+
 
 
 ### Acknowledgments
