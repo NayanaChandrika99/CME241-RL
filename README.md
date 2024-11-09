@@ -5,7 +5,7 @@ This repository documents my self-study journey through Stanford's CME 241 cours
 
 
 
-### Course Focus
+### 🎯Course Focus
 The course explores the intersection of Reinforcement Learning and Financial Applications, providing a comprehensive foundation in:
 * Markov Decision Processes (MDPs)
 * Dynamic Programming Algorithms
@@ -14,7 +14,7 @@ The course explores the intersection of Reinforcement Learning and Financial App
 
 
 
-### Learning Objectives
+### 📘Learning Objectives
 #### Theoretical Foundations
 * Master Markov Decision Processes (MDPs) framework
 * Understand Bellman Equations and their applications
@@ -38,7 +38,7 @@ The course explores the intersection of Reinforcement Learning and Financial App
 
 
 
-### Implementation Focus
+### 💻Implementation Focus
 All implementations are done "from scratch" in Python, emphasizing:
 * Clean interface design
 * Type annotations
