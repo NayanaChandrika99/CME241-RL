@@ -50,4 +50,4 @@ htmlcov/
 .cache
 coverage.xml
 *.cover
-.pytest_cache/
+.pytest_cache/.DS_Store
