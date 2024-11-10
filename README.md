@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# CME241-RL
-Stanford CME 241: Foundations of Reinforcement Learning with Applications in Finance
-Course Overview
-This repository documents my self-study journey through Stanford's CME 241 course, based on the textbook by Ashwin Rao and Tikhon Jelvis. The course focuses on foundational ideas in reinforcement learning with specific applications in finance.
-=======
 # Stanford CME 241: Self-Study Journey 📚
 
 ### Introduction
@@ -55,4 +49,3 @@ All implementations are done "from scratch" in Python, emphasizing:
 
 ### Acknowledgments
 This project is heavily inspired by Ashwin Rao and Tikhon Jelvis’s textbook, Foundations of Reinforcement Learning with Applications in Finance. Concepts and examples from the book form the basis for these implementations, although all code and commentary reflect my understanding and personal learning progress.
->>>>>>> 8724fa42fd6c09513a2b17d476e5b6a6771cb1c1
