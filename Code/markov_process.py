@@ -9,7 +9,7 @@ from pprint import pprint
 from typing import (Callable, Dict, Iterable, Generic, Sequence, Tuple,
                     Mapping, TypeVar, Set)
 
-from rl.distribution import (Categorical, Distribution, FiniteDistribution,
+from distribution import (Categorical, Distribution, FiniteDistribution,
                              SampledDistribution)
 
 S = TypeVar('S')
